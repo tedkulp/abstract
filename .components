@@ -1,0 +1,7 @@
+---
+:orm: mongoid
+:test: cucumber
+:mock: none
+:script: jquery
+:renderer: slim
+:stylesheet: compass
